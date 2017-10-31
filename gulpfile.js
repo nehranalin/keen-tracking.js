@@ -66,7 +66,7 @@ gulp.task('minify-loader', function(){
 
 
 // -------------------------
-// Dev tasks
+// Develop tasks
 // -------------------------
 
 gulp.task('connect', ['build'], function() {
