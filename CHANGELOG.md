@@ -44,7 +44,7 @@
 # 1.2.0 Fix queue exiting
 
 **FIXED:**
-* Fixed queue handling (#76) to clear the internal `setInterval` loop and allow scripts using queues to exit properly
+* Fixed queue handling (#76) to clear the internal `setInterval` loop and allow scripts using queues to exit properly.
 * Fixed async loader snippet (#77).
 
 **UPDATED:**
