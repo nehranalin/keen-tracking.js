@@ -3,7 +3,7 @@
 There are several new methods and name changes from earlier versions of [keen-js](https://github.com/keen/keen-js), but fear not! We have included shims and legacy methods to make this library fully backward-compatible with the core functionality of keen-js, aside from one breaking change to the `client.url()` method (detailed below).
 
 
-### Deprecated methods
+### Deprecated & Legacy methods
 
 The following legacy methods are now deprecated:
 
