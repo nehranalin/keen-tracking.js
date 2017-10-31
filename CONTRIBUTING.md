@@ -29,7 +29,7 @@ Use the template below. If certain testing steps are not relevant, specify that 
 
 ## What does this PR do? How does it affect users?
 
-## How should this be tested?
+## How should the process be tested?
 
 Step through the code line by line. Things to keep in mind as you review:
  - Are there any edge cases not covered by this code?
